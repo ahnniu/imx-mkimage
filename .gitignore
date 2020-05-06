@@ -1,0 +1,8 @@
+firmware-*
+.ccls-cache
+*.bin
+*.dtb
+*.itb
+*.its
+src/build_info.h
+mkimage_*
